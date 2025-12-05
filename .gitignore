@@ -1,0 +1,7 @@
+# Ignore VS Code workspace file
+*.code-workspace
+
+# Ignore local push helper script
+push.bat
+
+# You can add more local ignores below
